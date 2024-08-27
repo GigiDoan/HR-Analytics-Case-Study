@@ -6,7 +6,7 @@
   
 - The project of the former employee is progressing slowly, making it difficult to complete on schedule, weakening their position
   
-- Need to maintain a large department for the purpose of recruiting new talent
+- Need to maintain a large department to recruit new talent
   
 - New employees must be trained on the job and have time to get acquainted with the company.
   
