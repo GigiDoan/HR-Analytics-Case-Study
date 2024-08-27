@@ -8,7 +8,7 @@
 - Need to maintain a large department to recruit new talent
 - New employees must be trained on the job and have time to get acquainted with the company.
   
-Therefore, the management has contracted a data analytics company to understand what factors they should focus on to reduce attrition. In other words, they want to know what changes they should make in the workplace to keep the most employees. Additionally, they want to know which issues are the most important and should be addressed immediately.
+Therefore, the management has contracted a data analytics company to understand what factors they should focus on to reduce attrition. In other words, they want to know what changes they should make to keep the most employees. Additionally, they want to know which issues are the most important and should be addressed immediately.
 
   ### 2. Data Dictionary:
   
