@@ -18,6 +18,16 @@ Therefore, the management has contracted a data analytics company to understand 
   - Develop solutions to improve the situation and reduce the attrition rate.
      
 ## II. Design Thinking
+### Step 1 - Empathize
+![image](https://github.com/user-attachments/assets/972dc9d6-736b-4cb3-b391-c8b30e1d7570)
+### Step 2 - Define
+![image](https://github.com/user-attachments/assets/ac238f0b-bf1f-44a7-8e9a-e9022b57c03f)
+### Step 3 - Ideate
+![image](https://github.com/user-attachments/assets/65dc3aa0-f0d0-4d6e-80cf-3dab6d0c40c5)
+### Step 4 - Prototype 
+![image](https://github.com/user-attachments/assets/2e4daffe-c507-4cf5-b046-6bcef27ef702)
+### Step 5 - Review
+![image](https://github.com/user-attachments/assets/af7d2470-ab6e-44f6-98b6-14c7937006b7)
 
 ## III. Visualization
 
