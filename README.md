@@ -30,6 +30,13 @@ Therefore, the management has contracted a data analytics company to understand 
 ![image](https://github.com/user-attachments/assets/af7d2470-ab6e-44f6-98b6-14c7937006b7)
 
 ## III. Visualization
-
+### 1. Attrition Overview
+![image](https://github.com/user-attachments/assets/0d342a2d-3700-43a6-8d97-6b79de8959a2)
+### 2. Age & Gender
+![image](https://github.com/user-attachments/assets/2aaa8147-9c33-4081-9f51-38884f343fda)
+### 3. Job 
+![image](https://github.com/user-attachments/assets/d3028c64-a839-462f-b42c-49c73088dd16)
+### 4. Working Conditions
+![image](https://github.com/user-attachments/assets/a7c1beab-85a0-40e8-bbc1-51bb515ac7a0)
 ## IV. Insights
 
