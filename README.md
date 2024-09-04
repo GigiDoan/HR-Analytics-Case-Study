@@ -38,5 +38,12 @@ Therefore, the management has contracted a data analytics company to understand 
 ![image](https://github.com/user-attachments/assets/d3028c64-a839-462f-b42c-49c73088dd16)
 ### 4. Working Conditions
 ![image](https://github.com/user-attachments/assets/a7c1beab-85a0-40e8-bbc1-51bb515ac7a0)
-## IV. Insights
+## IV. Insights & Recommendations
+In conclusion, according to the analysis, I think the three most important factors that affect employees' decisions to quit and need to be resolved are:
+- High rate of employees quitting in the first year: The reason is often due to the environment and job requirements not matching the employee's orientation => The solution I recommend is that employers need to identify the recruitment needs of departments, as well as evaluate and adjust the criteria for evaluating candidates from the Candidate Screening and Interview steps to be able to choose suitable candidates in the future.
+
+- Monthly income: the company should review and reconsider whether the monthly salary is appropriate for the job position and the employee's level of contribution. So that employees do not feel that their contributions are no different from other employees. In addition to
+
+- Satisfaction with the working environment: According to analysis, the working environment has a great influence on causing many employees to leave, so the company needs to have policies to improve the working environment, increase the average index of satisfaction in the working environment, and help employees feel more comfortable at the office.
+
 
